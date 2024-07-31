@@ -1,0 +1,9 @@
+body{
+   background-image:url(imagem.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+}
+header{
+    background-color: rgb(143, 160, 122); color: rgb(255, 255, 255);
+}
